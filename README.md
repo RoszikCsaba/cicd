@@ -1,3 +1,2 @@
-# cicd v1.2.0
-elvileg nem lesz build
-vagy mégis
+# cicd v1.8.0
+tag checkout
